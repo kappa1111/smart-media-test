@@ -1,15 +1,3 @@
-# Smart-Media
-
-
-
-## Overview
-
-교육을 통해 백엔드에 대한 이해도를 높이고 실습을 통해 실무를 익힌다.
-
-
-
-
-
 # Git & GitHub
 
 ## :books: Git
@@ -26,7 +14,7 @@ Git은 소스코드의 버젼별로 저장을 하게된다. 따라서 상황에 
 
 `Commit` : 변경사항을 저장하여 새로운 버젼으로 만든다.
 
-`Branch` : Branch에 Commit을 할 수 있다. Branch는 분리될수도 다시 합쳐질 수도 있다.
+`Branch` : Branch에 Commit을 할 수 있다. Branch는 분리될수도 다시 합쳐질 수도 있다.
 
 `Merge` : 두개의 Branch를 다시 하나로 합친다.
 
@@ -75,6 +63,8 @@ $ git commit -m "test.txt파일 추가"
 ```shell
 $ git log
 ```
+
+
 
 ## :books:Github
 
